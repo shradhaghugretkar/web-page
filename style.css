@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(120deg, #c7d2fe, #fbcfe8);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  background-color: #ffffffd9;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.card ul li {
+  text-align: left;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.navbar {
+  background: linear-gradient(to right, #1f2937, #3b82f6);
+}
